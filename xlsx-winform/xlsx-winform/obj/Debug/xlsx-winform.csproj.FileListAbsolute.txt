@@ -1,0 +1,36 @@
+F:\Software Engineering files\C#\xlsx-winform\xlsx-winform\bin\Debug\xlsx-winform.exe.config
+F:\Software Engineering files\C#\xlsx-winform\xlsx-winform\bin\Debug\xlsx-winform.exe
+F:\Software Engineering files\C#\xlsx-winform\xlsx-winform\bin\Debug\xlsx-winform.pdb
+F:\Software Engineering files\C#\xlsx-winform\xlsx-winform\obj\Debug\xlsx-winform.csproj.AssemblyReference.cache
+F:\Software Engineering files\C#\xlsx-winform\xlsx-winform\obj\Debug\xlsx-winform.csproj.SuggestedBindingRedirects.cache
+F:\Software Engineering files\C#\xlsx-winform\xlsx-winform\obj\Debug\xlsx_winform.Form1.resources
+F:\Software Engineering files\C#\xlsx-winform\xlsx-winform\obj\Debug\xlsx_winform.Properties.Resources.resources
+F:\Software Engineering files\C#\xlsx-winform\xlsx-winform\obj\Debug\xlsx-winform.csproj.GenerateResource.cache
+F:\Software Engineering files\C#\xlsx-winform\xlsx-winform\obj\Debug\xlsx-winform.csproj.CoreCompileInputs.cache
+F:\Software Engineering files\C#\xlsx-winform\xlsx-winform\obj\Debug\xlsx-winform.exe
+F:\Software Engineering files\C#\xlsx-winform\xlsx-winform\obj\Debug\xlsx-winform.pdb
+F:\Software Engineering files\C#\xlsx-winform\xlsx-winform\bin\Debug\ClosedXML.dll
+F:\Software Engineering files\C#\xlsx-winform\xlsx-winform\bin\Debug\ClosedXML.pdb
+F:\Software Engineering files\C#\xlsx-winform\xlsx-winform\bin\Debug\ClosedXML.xml
+F:\Software Engineering files\C#\xlsx-winform\xlsx-winform\obj\Debug\xlsx-winform.csproj.CopyComplete
+F:\Software Engineering files\C#\xlsx-winform\xlsx-winform\bin\Debug\DocumentFormat.OpenXml.dll
+F:\Software Engineering files\C#\xlsx-winform\xlsx-winform\bin\Debug\DocumentFormat.OpenXml.xml
+F:\Software Engineering files\C#\xlsx-winform\xlsx-winform\obj\Debug\xlsx-winform.exe.config
+C:\Users\gilbey_gage\Downloads\xlsx\xlsx-winform\xlsx-winform\bin\Debug\xlsx-winform.exe.config
+C:\Users\gilbey_gage\Downloads\xlsx\xlsx-winform\xlsx-winform\bin\Debug\xlsx-winform.exe
+C:\Users\gilbey_gage\Downloads\xlsx\xlsx-winform\xlsx-winform\bin\Debug\xlsx-winform.pdb
+C:\Users\gilbey_gage\Downloads\xlsx\xlsx-winform\xlsx-winform\bin\Debug\ClosedXML.dll
+C:\Users\gilbey_gage\Downloads\xlsx\xlsx-winform\xlsx-winform\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\gilbey_gage\Downloads\xlsx\xlsx-winform\xlsx-winform\bin\Debug\ClosedXML.pdb
+C:\Users\gilbey_gage\Downloads\xlsx\xlsx-winform\xlsx-winform\bin\Debug\ClosedXML.xml
+C:\Users\gilbey_gage\Downloads\xlsx\xlsx-winform\xlsx-winform\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\gilbey_gage\Downloads\xlsx\xlsx-winform\xlsx-winform\obj\Debug\xlsx-winform.csproj.AssemblyReference.cache
+C:\Users\gilbey_gage\Downloads\xlsx\xlsx-winform\xlsx-winform\obj\Debug\xlsx-winform.csproj.SuggestedBindingRedirects.cache
+C:\Users\gilbey_gage\Downloads\xlsx\xlsx-winform\xlsx-winform\obj\Debug\xlsx-winform.exe.config
+C:\Users\gilbey_gage\Downloads\xlsx\xlsx-winform\xlsx-winform\obj\Debug\xlsx_winform.Form1.resources
+C:\Users\gilbey_gage\Downloads\xlsx\xlsx-winform\xlsx-winform\obj\Debug\xlsx_winform.Properties.Resources.resources
+C:\Users\gilbey_gage\Downloads\xlsx\xlsx-winform\xlsx-winform\obj\Debug\xlsx-winform.csproj.GenerateResource.cache
+C:\Users\gilbey_gage\Downloads\xlsx\xlsx-winform\xlsx-winform\obj\Debug\xlsx-winform.csproj.CoreCompileInputs.cache
+C:\Users\gilbey_gage\Downloads\xlsx\xlsx-winform\xlsx-winform\obj\Debug\xlsx-winform.csproj.CopyComplete
+C:\Users\gilbey_gage\Downloads\xlsx\xlsx-winform\xlsx-winform\obj\Debug\xlsx-winform.exe
+C:\Users\gilbey_gage\Downloads\xlsx\xlsx-winform\xlsx-winform\obj\Debug\xlsx-winform.pdb
